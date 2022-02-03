@@ -1,0 +1,27 @@
+# Glatteiserkennung
+
+* Glatteisfrüherkennung für Fahrradwege etc.
+* Glatteis soll mithilfe von Feuchtigkeitssensoren und Temperatursensoren erkannt werden
+* Es werden link:../../04_LoRa_Hardware/Elsys_ELT2[Sensoren] der ELT 2 Serie von Elsys verwendet (4 mit interner einer mit externer Antenne)
+* Zur Feuchtigkeitserkennung wird das https://www.elsys.se/shop/product/water-leak-sensor-cable/?v=f003c44deab6[Water leak sensor cable] von Elsys verwendet
+* Zur externen Temperaturmessung wird der https://www.elsys.se/shop/product/external-temperature-probe-2m/?v=f003c44deab6[Temperatursensor] von Elsys verwendet
+* Die zugehörige Application in TTN ist "glatteiserkennung"
+* Werte können mit der https://meteostat.net/de/station/10838[Meteostat Datenbank] verglichen werden
+* Die Testreihen sind im Ordner link:Testreihen[Testreihen] gespeichert
+
+
+*Aufbau:* 
+
+* Die silbernen Drähte müssen mit dem Sensor verbunden werden wie auf dem link:Bilder/Anschluss_Water_Leak_Cable.jpeg[Bild] sichtbar (Anschlussplan in der Anleitung für den ELT2)
+* Die gelben und schwarzen Kabel sind nur für die Stabilität vorhanden
+* Der Widerstand zwischen den beiden Drähten wird über ein PWM signal gemessen
+* je länger das Kabel ist, desto höher ist der Null-Wert also der Wert bei Trockenheit
+* sobald mehr als 4 cm des Kabels unter Wasser sind wird der Maximalwert (255) angezeigt
+
+*JSON-Files:* 
+
+* link:JSON_Feuchtigkeitserkennung.txt[Feuchtigkeitserkennung] (im Sensorconfig Frontend unter Backendtest/Feuchtigkeitserkennung_1.1)
+* link:JSON_Temperaturmessung.txt[Temperaturmessung] (im Sensorconfig Frontend unter Backendtest/Temperaturmessung_1.1)
+
+
+

@@ -7,3 +7,6 @@ Bei den Messungen sind folgende Abstände zwischen den Drähten:
 * 1 cm
 * 5 cm
 * 10 cm
+
+- *link:../Testreihe_1[Testreihe 1]*
+- *link:../Testreihe_3[Testreihe 3]*

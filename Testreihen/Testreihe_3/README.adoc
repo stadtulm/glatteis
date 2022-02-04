@@ -35,3 +35,6 @@ image::Komplette_Messreihe.PNG[komplette_Messreihe.png]
 Am nächsten Bild sieht man die Messwerte nachdem der Sensor aus dem Kühlschrank entfernt wurde genauer. Es lässt sich erkennen, dass als Mindestwert im Eis ein Wert von 16 gemessen wurde. Durch die Wärme schmilzt das Eis um das Water Leak Sensor Kabel schnell und es wird wieder ein Wert von 255 gemessen, der dem Wert des Kabels im Wasser entspricht. Der Auftauvorgang ist genauer auf dem folgenden Bild dargestellt.
 
 image::Auftauvorgang.PNG[Auftauvorgang.png]
+
+- *link:../Testreihe_1[Testreihe 1]*
+- *link:../Testreihe_2[Testreihe 2]*

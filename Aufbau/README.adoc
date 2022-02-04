@@ -13,4 +13,4 @@ Zur Feuchtigkeitserkennung wird das https://www.elsys.se/shop/product/water-leak
 
 image::Anschluss_Water_Leak_Cable.jpg[] 
 
-Die gelben und schwarzen Kabel sind nur für die Stabilität vorhanden. Der Widerstand zwischen den beiden Drähten wird über ein PWM signal gemessen. Je länger das Kabel ist, desto höher ist der Null-Wert also der Wert bei Trockenheit. Sobald mehr als 4 cm des Kabels unter Wasser sind wird der Maximalwert (255) angezeigt. Ob die Messmethodik zur Glatteiserkennung mittels Feuchtigkeits- und Temperaturerfassung funktioniert, ist in verschiedenen link:../Testreihen[Testreihen] untersucht worden.
+Die gelben und schwarzen Kabel sind nur für die Stabilität vorhanden. Der Widerstand zwischen den beiden Drähten wird über ein PWM-Signal gemessen. Je länger das Kabel ist, desto höher ist der Null-Wert also der Wert bei Trockenheit. Sobald mehr als 4 cm des Kabels unter Wasser sind wird der Maximalwert (255) angezeigt. Ob die Messmethodik zur Glatteiserkennung mittels Feuchtigkeits- und Temperaturerfassung funktioniert, ist in verschiedenen link:../Testreihen[Testreihen] untersucht worden.

@@ -1,8 +1,6 @@
 # Testreihe 2
 
-Es soll der Einfluss des Abstands zwischen den beiden Drähten bestimmt werden. Dafür sollen Messungen mit unterschiedlichen Abständen zwischen den beiden Drähten durchgeführt werden. Für die Testreihe werden die offenen Drähte aus Testreihe 1 verwendet. Der Aufbau des versuchs is auf dem folgenden Bild sichtbar.
-
-image::Versuchsaufbau_Testreihe2.png[Versuchsaufbau_Testreihe2.png]
+Es soll der Einfluss des Abstands zwischen den beiden Drähten bestimmt werden. Dafür sollen Messungen mit unterschiedlichen Abständen zwischen den beiden Drähten durchgeführt werden. Für die Testreihe werden die offenen Drähte aus Testreihe 1 verwendet.
 
 Bei den Messungen sind folgende Abstände zwischen den Drähten:
 

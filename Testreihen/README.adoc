@@ -1,0 +1,5 @@
+- *link:Testreihe_1[Testreihe 1:]* Test, ob das Water-Leak-Sensor-Cable Nässe und Schnee erkennt.
+
+- *link:Testreihe_2[Testreihe 2:]* Test, ob es eine Abhängigkeit von Messergebnisse und Drahtabstand gibt (Versuch bisher noch nicht durchgeführt).
+
+- *link:Testreihe_3[Testreihe 3:]* Test, ob das Water-Leak-Sensor-Cable Eis erkennt.

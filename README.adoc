@@ -2,7 +2,7 @@
 
 Im Rahmen des Projekts _Zukunftsstadt Ulm_ soll ein Netz aus flexibel aufstellbarer, eigenständiger und sichtbarer Sensorik zur Erhebung von Mobilitätsdaten aufgebaut werden. In Zusammenarbeit mit den Bürger:Innen soll dadurch ein Impuls für eine zukünftige Infrastruktur zur Datenerhebung geschaffen werden. Die von den Sensoren erfassten und anonymisierten Mobilitätsdaten sollen am Ende über die Datenplattform der Stadt Ulm für eine nachhaltige und agile Stadtplanung weiteren Nutzern zur Verfügung stehen. Die Technische Hochschule Ulm (THU) setzt das Projekt als Kooperationspartner im Themenfeld Mobilität wissenschaftlich um.
 
-Es wurde der Prototyp eines Glatteiserkennungssystems entwickelt, der mit Hilfe von Sensorik Glatteis im Straßenverkehr (z.B. auf Fahrradwegen) frühzeitig erkennen soll. Eine Elektrisch autarke LoRa-Box mit analog angeschlossenem Feuchtigskeits- und Temperatursensor ist in der Lage gemessene Daten per Funktechnologie über das LoRaWAN-Netzwerk zu versenden. Auf Grundlage dieser Messdaten können in Zukunft z.B. Entsorgungsbetriebe bei ihren Räumungsarbeiten im Winter entlastet werden.
+Es wurde der Prototyp eines Glatteiserkennungssystems entwickelt, der mit Hilfe von Sensorik Glatteis im Straßenverkehr (z.B. auf Fahrradwegen) frühzeitig erkennen soll. Zwei elektrisch autarke LoRa-Boxen mit jeweils analog angeschlossenem Feuchtigkeits- und Temperatursensor sind in der Lage gemessene Daten per Funktechnologie über das LoRaWAN-Netzwerk zu versenden. Auf Grundlage dieser Messdaten können in Zukunft z.B. Entsorgungsbetriebe bei ihren Räumungsarbeiten im Winter entlastet werden.
 
 Bisher wurde der Prototyp noch nicht im Reallabor getestet, sondern nur innerhalb des THU Labors in verschiedenen link:Testreihen[Testreihen].
 

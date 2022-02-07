@@ -8,6 +8,6 @@ Bisher wurde der Prototyp noch nicht im Reallabor getestet, sondern nur innerhal
 
 Dieses Repository soll eine transparente technische Dokumentation bieten. [red]#*ACHTUNG:  Alle, die diesen Prototypen nachbauen, sind als Hersteller selbst verantwortlich. Bei Inverkehrbringung muss sicher gestellt werden, dass alle geltenden EU-Richtlinien eingehalten werden und eine CE-Kennzeichnung angebracht wird. Die THU haftet nicht für die Herstellung und Inverkehrbringung anderer.*#
 
-- *link:Aufbau[Aufbau]*
+- *link:Hardware[Hardware]*
 - *link:Testreihen[Testreihen]*
 - *link:Backend[Backend]*
